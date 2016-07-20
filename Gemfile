@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+ruby '2.2.5'
 gem 'rails', '4.2.6'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
@@ -24,4 +24,6 @@ end
 group :development do
   gem 'web-console', '~> 2.0'
   gem 'spring'
+  
+gem 'rails_12factor', group: :production
 end
