@@ -22,7 +22,7 @@ Work in progress
   gem 'masonry-rails', '~> 0.2.4'
   gem 'rails_12factor'
   
-* What I learned
+* This app inlcudes:
 
   Users
   Pins
@@ -31,5 +31,9 @@ Work in progress
   HAML
   Masonry
   Bootstrap-Sass
+  
+* What did I learn 
+
+  This app was a chance for me to make a complete app with all the basics of ruby on Rails. HAML was totally new for me, and learned a lot from it. Using several gems showed me how easy it is to use them, and it creates pretty cool functions and effects.
   
   
